@@ -9,7 +9,8 @@
     "Moti Zilberman <motiz88@gmail.com>"
   ],
   "files": [
-    "dist"
+    "dist",
+    "index.js"
   ],
   "repository": {
     "type": "git",
